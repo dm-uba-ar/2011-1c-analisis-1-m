@@ -1,8 +1,4 @@
-# Página de las Materias Análisis I - Análisis Matemático I - Matemática 1 - Análisis II (C) — Primer cuatrimestre de 2011
-
-## Equipo docente
-
-- **Clases teóricas:** Esteban Andruchow, Pablo Groisman, Daniel Perrucci, Gabriel Larotonda, Alejandro Petrovich
+# Análisis 1 M — Primer cuatrimestre de 2011
 
 ## Prácticas
 
